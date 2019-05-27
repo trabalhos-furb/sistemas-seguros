@@ -1,0 +1,1 @@
+Este é um arquivo com texto simples para testes de criptografia.
